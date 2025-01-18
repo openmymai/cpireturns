@@ -1,4 +1,4 @@
-## Anchor
+## Solana Development using Anchor
 
 Anchor is a Rust framework that facilitates the creation of dApps on the Solana blockchain.
 One of the peculiarities of developing on Solana is the need to use a lot of template code, 
