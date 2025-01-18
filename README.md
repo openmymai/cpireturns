@@ -15,7 +15,8 @@ cd cpi-returns
 anchor build
 ```
 
-In my case, there is an error so I fix it by changing "version = 4" to "version = 3" in Cargo.lock file
+> In my case, there is an error so I fix it by changing "version = 4" to "version = 3" in Cargo.lock file
+
 <img width="956" alt="Screenshot 2025-01-18 at 11 08 40 AM" src="https://github.com/user-attachments/assets/4fbcc37a-f181-4681-95d4-73924780a7d7" />
 
 
